@@ -1,2 +1,2 @@
 # winAPI-simple-crackme
-A very simple crackme challenge using winAPI in c
+An easy to solve crackme challenge using winAPI in c
